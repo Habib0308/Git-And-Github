@@ -6,3 +6,4 @@ I'll Go to Master --> Create a new Branch --> "Branch 1" and I'll work on it.
 
 Now I've Done above steps and now I'm in "Brach 1"
 
+I can go to Graphs to see what I've done in my project so far
