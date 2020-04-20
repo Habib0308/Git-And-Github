@@ -2,4 +2,7 @@ I'm gonna do the following operations here:
 
 Each commit to a file Generates a new Commit hash
 
-Go to Master -->
+I'll Go to Master --> Create a new Branch --> "Branch 1" and I'll work on it.
+
+Now I've Done above steps and now I'm in "Brach 1"
+
