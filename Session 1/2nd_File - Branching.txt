@@ -1,0 +1,5 @@
+I'm gonna do the following operations here:
+
+Each commit to a file Generates a new Commit hash
+
+Go to Master -->
