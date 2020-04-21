@@ -10,7 +10,7 @@ I went to "Branch 1" and did a pull request.
 
 Now I came back to Master and went to "pull request" menu on the top.
 
-
+I did it. Now i have merged them so now i can Make this Private.
 
 
 
