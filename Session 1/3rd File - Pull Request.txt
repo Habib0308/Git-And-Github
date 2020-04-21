@@ -1,0 +1,19 @@
+Now Let's Talk about Pull Request
+-- REQUEST --
+
+Pulling something from somebody.
+It's like pulling a brach from someone's repository.
+
+Here I'll go to "Branch 1" and request "Master" to pull "Branch 1" into "Master".
+
+I went to "Branch 1" and did a pull request.
+
+Now I came back to Master and went to "pull request" menu on the top.
+
+
+
+
+
+
+
+

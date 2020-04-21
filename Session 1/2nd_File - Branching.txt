@@ -4,6 +4,9 @@ Each commit to a file Generates a new Commit hash
 
 I'll Go to Master --> Create a new Branch --> "Branch 1" and I'll work on it.
 
+Branch-1
 Now I've Done above steps and now I'm in "Brach 1"
 
 I can go to Graphs to see what I've done in my project so far
+
+Now I'll Work on "Pull Request" and "Merge Request".
