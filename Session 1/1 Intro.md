@@ -16,3 +16,11 @@ I can just throw all my images inside images folder by Simply dragging and dropp
 Each time i edit file i press this button to Save my file.
 ## Editing File
 ## History
+We can go to History.
+
+![History button](https://github.com/Habib0308/Git-And-Github/blob/master/images/history%20button.png)
+ 
+ And press this button to edit the file from the past commit.
+
+![Image](https://github.com/Habib0308/Git-And-Github/blob/master/images/history.png)
+
