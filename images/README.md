@@ -1,2 +1,1 @@
-# Images Folder
-This Folder Contains all images i will use in this repository.
+# This Folder Contains all images i will use in this repository.
