@@ -1,8 +1,19 @@
 # Git-And-Github
-Learning about Git and Github
-First file tells about creating Files and folders and Repositories.
-# Session 1: Branching
-Created a "Branch 1"
-"3rd File"
-Explains about Pull Request and Push Request
+Git is a Version control software and allows people to colaborate.
+
+Github does all the things that git does.
+## [Session 1](): 
+In Session 1 we will:
+* Create Repository.
+* README.md
+* Create a File
+* Create a Folder
+* Commit (Save)
+* Editing File
+* History
+
+
+
+
+
 
