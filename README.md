@@ -11,9 +11,12 @@ In Session 1 we will:
 * Commit (Save)
 * Editing File
 * History
-
-
-
+## [Session 2]()
+* Branch
+* Master
+* Graph
+* Push
+* Pull or pull request
 
 
 
