@@ -17,6 +17,9 @@ In Session 1 we will:
 * Graph
 * Push
 * Pull or pull request
-
-
+## [Session 3]()
+* Fork
+* Pull Request
+* How to Fork and edit someone's Repositoty
+* How to contribute changes made in someone's repository
 
