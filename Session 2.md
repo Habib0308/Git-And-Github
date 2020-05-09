@@ -13,13 +13,3 @@ Sending something to somebody
 Pulling something in from somebody. I made a brannch and now i send a request to master branch to pull my branch into itself. this is called **Pull Request**.
 
 ![Pull Request](https://github.com/Habib0308/Git-And-Github/blob/master/images/Pull%20request.png)
-
-
-
-
-
-
-
-
-
-
