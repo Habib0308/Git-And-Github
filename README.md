@@ -22,4 +22,9 @@ In Session 1 we will:
 * Pull Request
 * How to Fork and edit someone's Repositoty
 * How to contribute changes made in someone's repository
+## [Session 4]()
+* Issue
+* Close issue
+
+
 
