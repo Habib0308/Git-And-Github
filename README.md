@@ -25,6 +25,7 @@ In Session 1 we will:
 ## [Session 4]()
 * Issue
 * Close issue
-
-
+## [Session 5 Terminal Command]()
+* 
+* 
 
