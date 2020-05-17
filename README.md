@@ -28,4 +28,6 @@ In Session 1 we will:
 ## [Session 5 Terminal Command]()
 * 
 * 
-
+## [Session 6 Git Comands]()
+*
+*
